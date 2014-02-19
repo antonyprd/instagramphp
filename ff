@@ -1,0 +1,4 @@
+//1 - Settings (please update to math your own)
+$username='antonyprd'; //Provide your instagram username
+$access_token='185733690.106a8d2.42da95a42a664c6984a623f27897c32e'; //Provide your instagram access token
+$count='10'; //How many shots do you want?
